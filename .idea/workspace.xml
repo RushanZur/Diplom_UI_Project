@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bcfa643-d840-418a-a7f3-ba60ff3c776a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diplom_project_UI_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/models/ui_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/notifications/allure-notifications-4.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/pages/create_room_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/pages/message_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/allure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/allure_testops.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/pytest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/selene.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/icons/selenoid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/screens/dashboard_testops.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/resources/screens/detail_report_ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/schemas/booker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/tests/ui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/tests/ui/test_create_room_and_all_rooms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/tests/ui/test_send_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/utils/attach_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_diplom_project_UI_/utils/helper.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZSEjhEZqWS67XtzFrPE3QMXAxD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/79276/IdeaProjects/diplom_project_UI_ 1/python_diplom_project_UI_/resources/screens"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79276\IdeaProjects\diplom_project_UI_ 1\python_diplom_project_UI_\resources\screens" />
+      <recent name="C:\Users\79276\IdeaProjects\diplom_project_UI_" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bcfa643-d840-418a-a7f3-ba60ff3c776a" name="Changes" comment="" />
+      <created>1702407228894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702407228894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
